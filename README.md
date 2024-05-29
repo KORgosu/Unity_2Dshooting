@@ -20,6 +20,7 @@ WASD or 방향키를 통해서 움직이고 클릭을 통해 총알을 발사하
 
 
 [구현 모습]
+
 ![1](https://github.com/KORgosu/Unity_2Dshooting/assets/47071344/a748f7bb-7276-4adb-9c87-9bd75a645619)
 
 
